@@ -5,7 +5,8 @@
 ## 目录
 
 - [方法论](methodology/)
-  - [方法论说明](methodology/README.md)
+  - [方法论说明与索引](methodology/README.md)
+  - [百万字长篇不崩，靠六份教案还是模型硬记？](methodology/2026-11-02-百万字长篇不崩.md)（2026-11-02）
 
 ## 后续
 
